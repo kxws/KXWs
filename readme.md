@@ -1,10 +1,8 @@
 # Hey! I'm komi
 
-:octocat:I love web creation
-
-📖 Learning the basics of C
-
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+:octocat: this mf is cute
+i love html because im sad
+kill me :yum:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komiwomi&show_icons=true&theme=tokyonight)
 
