@@ -8,6 +8,6 @@ i dont really get much enjoyment but that never stopped me
 
 lol!
 
-![skyes GitHub stats](https://github-readme-stats.vercel.app/api?username=komiwomi&show_icons=true&theme=jolly)
+![skyes GitHub stats](https://github-readme-stats.vercel.app/api?username=komiwomi&show_icons=true&theme=neon)
 
 
