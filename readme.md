@@ -10,4 +10,4 @@ lol!
 
 ![skyes GitHub stats](https://github-readme-stats.vercel.app/api?username=komiwomi&show_icons=true&theme=neon)
 
-
+[![CatMemes](https://github-readme-stats.vercel.app/api/pin/?username=komiwomi&repo=cat-memes&theme=neon)](https://github.com/komiwomi/cat-memes)
