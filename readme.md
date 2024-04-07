@@ -1,6 +1,6 @@
 # Hi
 
-#i dont do much
+# i dont do much
 
 my name is skye and I like to listen to music and thats about it..
 
